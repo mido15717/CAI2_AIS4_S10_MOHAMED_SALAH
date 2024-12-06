@@ -16,7 +16,7 @@ class Employee:
 
     # Update method
     def update(self, name=None, email=None, salary=None, position=None):
-        self.name = name2
+        self.name = name
         self.email = email
         self.salary = salary
         self.position = position
