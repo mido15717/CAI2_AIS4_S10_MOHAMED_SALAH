@@ -1,0 +1,1 @@
+This Python program provides a Command-Line Interface (CLI) to manage employee records. It supports adding, modifying, deleting, searching, and displaying employee information stored in a CSV file. The application is designed for simplicity, allowing basic employee management tasks to be performed efficiently.
